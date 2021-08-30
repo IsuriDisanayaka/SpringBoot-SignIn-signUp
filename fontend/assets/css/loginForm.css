@@ -1,0 +1,26 @@
+h1 {
+    position: relative;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 23px;
+    font-family: "Microsoft JhengHei Light";
+}
+.imagecontainer {
+    position: relative;
+    padding-top: 188px;
+}
+
+
+#maincard {
+    position: absolute;
+    right: 114px;
+    top: 171px;
+    width: 400px;
+    height: 400px;
+}
+#createacc{
+    position: absolute;
+    bottom: 8px;
+    left: 311px;
+    background: #21792894;
+}
